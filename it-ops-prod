@@ -1,0 +1,4 @@
+<script>start("/Users/bendiyaolu/Downloads/githubmigration/terraform-aws/it-ops-prod/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("eu-central-1","eu-central-1",1,128,"128 B",1721251550,"7/17/24, 3:25:50 PM");</script>
+<script>addRow("us-east-1","us-east-1",1,128,"128 B",1742939175,"3/25/25, 3:46:15 PM");</script>
